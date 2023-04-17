@@ -1,6 +1,8 @@
 # Additional buttons for Nyx.cz
 This code creates a set of functions that add buttons to a web page and insert various types of markup into a textarea, including functions that generate HTML markup for image, video, code, quote, and spoiler content and an addButtonToPage function that adds event listeners to retrieve the URL from the clipboard and insert the appropriate markup.
 
+![My Image](screenshot.png)
+
 ## The main steps it performs are
 This code defines a set of functions to add buttons to a web page and insert various types of markup (image, video, code, quote, and spoiler) into a textarea. The getUrlFromClipboard function uses the navigator.clipboard API to read text from the clipboard and return it after trimming any whitespace. The createButton function creates a button element with a specified title, icon class, and callback function. The generateImageMarkup, generateVideoMarkup, generateCodeMarkup, generateQuoteMarkup, and generateSpoilerMarkup functions generate HTML markup for the corresponding types of content. The insertMarkupIntoTextarea function inserts the specified markup into the textarea at the current cursor position. The addButtonToPage function creates a set of buttons for each type of content, adds event listeners to retrieve the URL from the clipboard, generate the appropriate markup, and insert it into the textarea. Finally, the addButtonToPage function is called to add the buttons to the web page.
 
