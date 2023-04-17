@@ -90,5 +90,10 @@ async function addButtonToPage() {
 		return;
 	}
 }
-// Call the function to add the buttons to the page
-addButtonToPage();
+// Check for the presence of the target div before calling addButtonToPage()
+const targetDivExists = document.querySelector('.post-type.control-group.switch');
+if (targetDivExists) {
+  addButtonToPage();
+} else {
+  console.log('Target div does not exist. The script will not run.');
+}
