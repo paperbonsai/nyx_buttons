@@ -15,3 +15,20 @@ This code defines a set of functions to add buttons to a web page and insert var
 6. Paste the entire code snippet into the "Code" section of the extension window.
 7. Click on the "Save" button to save the script.
 8. Refresh the website and the buttons should now appear.
+
+████▀░░░░░░░░░░░░░░░░░░▀███
+███│░░░░░░░░░░░░░░░░░░░│███
+██▌│░░░░░░░░░░░░░░░░░░░│▐██
+██░└┐░░░░░░░░░░░░░░░░░┌┘░██
+██░░└┐░░░░░░░░░░░░░░░┌┘░░██
+██░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██
+██▌░│██████▌░░░▐██████│░▐██
+███░│▐███▀▀░░▄░░▀▀███▌│░███
+██▀─┘░░░░░░░▐█▌░░░░░░░└─▀██
+██▄░░░▄▄▄▓░░▀█▀░░▓▄▄▄░░░▄██
+████▄─┘██▌░░░░░░░▐██└─▄████
+██████████┬┬┬┬┬┬┬██████████
+██████████M█C█H█N██████████
+███████████████████████████
+██https://codestormer.com██
+███████████████████████████
